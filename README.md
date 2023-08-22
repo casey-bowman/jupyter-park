@@ -20,6 +20,12 @@ jupyter lab
 deactivate
 ```
 
+## Install Rust
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+See [rustlang.org](https://www.rust-lang.org/tools/install) for more information.
+
 ## Install Rust kernel from source
 ```bash
 git clone git@github.com:evcxr/evcxr.git
