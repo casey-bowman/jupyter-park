@@ -16,6 +16,11 @@ python3 -m venv env
 source env/bin/activate
 ```
 
+## Install dependencies
+```bash 
+pip install -r requirements.txt
+```
+
 ## Start jupyter
 ```bash
 jupyter lab
