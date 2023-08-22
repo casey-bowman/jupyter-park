@@ -21,7 +21,7 @@ source env/bin/activate
 jupyter lab
 ```
 
-## Close env
+## Close env (when done, after closing jupyter)
 ```bash
 deactivate
 ```
