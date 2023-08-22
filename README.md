@@ -1,5 +1,11 @@
 # jupyter-park
 
+## Install python3 and python3-venv 
+(if not already installed)
+```bash
+sudo apt install python3 python3-venv
+```
+
 ## Setup env
 ```bash
 python3 -m venv env
@@ -20,7 +26,8 @@ jupyter lab
 deactivate
 ```
 
-## Install Rust
+## Install Rust 
+(if not already installed)
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
