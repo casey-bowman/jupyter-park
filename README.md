@@ -3,7 +3,7 @@
 ## Install python3 and python3-venv 
 (if not already installed)
 ```bash
-sudo apt install python3 python3-venv
+sudo apt install python3 python3-dev python3-venv
 ```
 
 ## Setup env
